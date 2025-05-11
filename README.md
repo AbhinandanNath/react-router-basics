@@ -1,2 +1,2 @@
 # react-router-basics
-A basic react royer project
+A basic react router project
